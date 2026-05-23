@@ -25,24 +25,29 @@ Either ways, we can assume that <10 users are on latest versions. and thus we wi
 
 ## Steps To Test.
 
-0. If have ever test the passcodes app before. then ensure that you have no other then production version of passcodes install on your device.
+0. If have ever test the passcodes app before. then ensure that you have no other than production version of passcodes install on your device.
 
-1. Download the new test suite app given in [gh-release (comming-soon)]().
+1. Download & install the `old-apk.apk` given in [gh-release](https://github.com/PasscodesApp/Test-Suite/releases/download/room-drizzle-v01/old-apk.apk).
 
-2. Install app as normal and open it.
+2. Now download the `extra-passwords.csv` from [gh-release](https://github.com/PasscodesApp/Test-Suite/releases/download/room-drizzle-v01/extra-passwords.csv).
 
-3. Now download the `extra-test-passwords.csv` from [gh-release (comming-soon)]().
+3. Install app as normal and open it (`appname:- room-expo`). it will android logo on it, not passcodes logo.
 
 4. Now you can use import features of app to auto-add extra test passwords.
 
-5. If wish, you also add your custom one or two password it real help use test app better due to your custom input to test... (HIGH ENCOURAGE IT)
+5. If wish, you also add your custom extra one/two password. it really help testing app better due to your custom input to test... (HIGH ENCOURAGE IT)
 
-6. Close app complete.
+6. Close the app completely.
 
-7. Now download the new updated apk from [gh-release (comming-soon)]() and install it.
+7. Now download and install the `new-apk.apk` from [gh-release](https://github.com/PasscodesApp/Test-Suite/releases/download/room-drizzle-v01/new-apk.apk).
 
-8. Run the app & just act / pretend like user, if you are developer be little impatient (if you want to)...
+8. Open the app `appname:- room-drizzle`. (it will android logo on it, not passcodes logo).
 
-9. After app done being hang (yeah it may feel like it hanged)... Check wether your passwords are still thier.
+9. Now click `getbackoldpasswords`.
 
-10. Report a one word success or failure.. and if you want along with long story of your wait on discord/telegram...
+10. Run the app & just act / pretend like user, if you are developer be little impatient (if you want to)...
+
+11. After app done being hang (yeah it may feel like it hanged)... Check wether your passwords are still thier.
+
+12. Report a one word success or failure.. and if you want along with long story of your wait on discord/telegram...
+
