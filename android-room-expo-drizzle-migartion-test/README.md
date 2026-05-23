@@ -29,7 +29,7 @@ Either ways, we can assume that <10 users are on latest versions. and thus we wi
 
 1. Download & install the `oldapk.apk` given in [here](https://raw.githubusercontent.com/PasscodesApp/Test-Suite/refs/heads/main/android-room-expo-drizzle-migartion-test/oldapk.apk).
 
-2. Now download the `extra-passwords.csv` from [here](https://raw.githubusercontent.com/PasscodesApp/Test-Suite/refs/heads/main/android-room-expo-drizzle-migartion-test/extra-passwords.csv)
+2. Now download the `extra-passwords.csv` from [here](https://github.com/PasscodesApp/Test-Suite/releases/download/room-drizzle-v02/extra-passwords.csv)
 
 3. Install app as normal and open it (`appname:- room-expo`). it will android logo on it, not passcodes logo.
 
