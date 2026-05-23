@@ -27,7 +27,7 @@ Either ways, we can assume that <10 users are on latest versions. and thus we wi
 
 0. If have ever test the passcodes app before. then ensure that you have no other than production version of passcodes install on your device.
 
-1. Download & install the `old-apk.apk` given in [gh-release](https://github.com/PasscodesApp/Test-Suite/releases/download/room-drizzle-v02/old-apk.apk).
+1. Download & install the `oldapk.apk` given in [gh-release](https://github.com/PasscodesApp/Test-Suite/releases/download/room-drizzle-v02/oldapk.apk).
 
 2. Now download the `extra-passwords.csv` from [gh-release](https://github.com/PasscodesApp/Test-Suite/releases/download/room-drizzle-v02/extra-passwords.csv).
 
@@ -39,7 +39,7 @@ Either ways, we can assume that <10 users are on latest versions. and thus we wi
 
 6. Close the app completely.
 
-7. Now download and install the `new-apk.apk` from [gh-release](https://github.com/PasscodesApp/Test-Suite/releases/download/room-drizzle-v02/new-apk.apk).
+7. Now download and install the `newapk.apk` from [gh-release](https://github.com/PasscodesApp/Test-Suite/releases/download/room-drizzle-v02/newapk.apk).
 
 8. Open the app `appname:- room-drizzle`. (it will android logo on it, not passcodes logo).
 
